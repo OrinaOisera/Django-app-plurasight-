@@ -116,18 +116,6 @@ USE_L10N = True
 USE_TZ = True
 
 
-progress==1.5
-psycopg2-binary==2.8.6
-psycopg2-pool==1.1
-pyparsing==2.4.6
-pytoml==0.1.21
-pytz==2021.1
-requests==2.22.0
-retrying==1.3.3
-six==1.14.0
-sqlparse==0.4.1
-urllib3==1.25.8
-webencodings==0.5.1
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
